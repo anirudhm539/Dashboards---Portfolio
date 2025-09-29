@@ -56,6 +56,6 @@ Amazon ke sales aur profit data ka analysis. Isme Category, City, State aur Quar
 
 ## 📬 Contact
 For freelance projects:  
-- Email: your-email@example.com  
+- Email: annimanjhi539@gmail.com  
 - Fiverr: [Your Fiverr link]  
 - LinkedIn: www.linkedin.com/in/anirudh-manjhi
