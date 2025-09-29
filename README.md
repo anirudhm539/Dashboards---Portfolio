@@ -1,4 +1,4 @@
-# Dashboards Portfolio — Vivek Singh
+# Dashboards Portfolio — Anirudh manjhi
 
 This repository contains my **Power BI dashboards** created for sales and customer analytics.  
 Each dashboard is fully interactive and built with DAX measures, filters, and KPIs.
@@ -58,4 +58,4 @@ Amazon ke sales aur profit data ka analysis. Isme Category, City, State aur Quar
 For freelance projects:  
 - Email: your-email@example.com  
 - Fiverr: [Your Fiverr link]  
-- LinkedIn: [Your LinkedIn link]
+- LinkedIn: www.linkedin.com/in/anirudh-manjhi
